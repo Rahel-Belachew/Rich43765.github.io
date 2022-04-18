@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: url("drink3.jpg");
+    background-color: rgb(233, 208, 170);
+    background-blend-mode:soft-light;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position:relative;
+}
+h1{
+    text-align: center;
+    margin-left: 70px;
+    padding:20px;
+  
+    
+}
+table{
+    margin:5px;
+    padding:15px;
+    width:60%;
+}

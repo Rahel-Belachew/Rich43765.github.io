@@ -1,0 +1,35 @@
+*{
+    margin:5px;
+
+    padding:0;
+}
+body{
+    background: url("image/house.jpg");
+    background-color: rgb(223, 172, 96);
+    background-blend-mode:soft-light;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position:relative;
+}
+
+.text{
+    color:rgb(8, 8, 8);
+    text-align:center;
+    font-size: large;
+    font:bold;
+    margin-top:30px;
+    padding-bottom:5px;
+   
+}
+h1{
+    text-decoration: none;
+    text-shadow: 44pc;
+}
+button {
+    margin-left: 500px;
+    padding:50px;
+    font-size:large;
+
+}
+
